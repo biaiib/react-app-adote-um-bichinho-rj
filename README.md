@@ -15,6 +15,7 @@ O projeto "Website - Adote um Bichinho RJ" é uma iniciativa de alunos no segund
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js
 - **Banco de Dados**: MySQL
+- **Hospedagem**: Netlify
 
 ## Funcionalidades
 
